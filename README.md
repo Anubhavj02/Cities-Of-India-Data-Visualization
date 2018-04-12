@@ -25,5 +25,5 @@ cmd:~$ R
 ```
 5. Run the app
 ```console
-> runApp("--Path_To_The_Cloned_Folder--")
+> runApp("--Path_To_The_Cloned_Folder--/CityDataVisualization")
 ```
